@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.spec
+build/
+dist/
+*.exe
+
+# Test files and folders
+test_exports/
+test_*
+
+# Logs and results
+*.log
+*.json
+*.txt
+
+# Secret files
+*.pem
+*.key
+*.private
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# IDE-specific files
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.iml
+.vscode/
+*.code-workspace
